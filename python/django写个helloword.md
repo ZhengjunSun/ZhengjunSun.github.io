@@ -120,7 +120,7 @@ render()函数支持一个dict类型参数
 该字典是后台传递到前端模板的参数，键为参数名
 在前端模板中使用{{参数名}}来直接使用
 
-DTL 也支持if else  for循环这样的逻辑操作   {% %}  {{ }}
+DTL 也支持if else  for循环这样的逻辑操作   
 
 > 细节：Django查找Template是按照INSTALLED_APPS中添加的顺序查找的
 如果在两个app中使用了同名的html文件 那么就会有问题
