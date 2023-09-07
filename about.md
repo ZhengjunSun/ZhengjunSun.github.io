@@ -5,8 +5,8 @@ title: "关于：About"
 
 ## 个人简介：
 
-* 孙正君
-* Web开发
+* ZhengjunSun
+* 北京邮电大学计算机科学与技术专业
 * 现居北京
 
 ## 联系方式
@@ -23,8 +23,3 @@ title: "关于：About"
 * 搭建于[Github](https://github.com/LippiOuYang/LippiOuYang.github.io),欢迎Fork
 * 模板及样式来源[Useful Paradigm](http://usefulparadigm.com/)
 * 折腾开始于2014年6月1日，基本在2014年6月15日完工。
-
-## 其他流言
-* 未**女昏**人士；
-* 阿森纳球迷；
-* 实况足球忠实粉丝；
